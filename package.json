@@ -4,7 +4,8 @@
   "description": "Blog em JS\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dcompleto em JS",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "start": "node app"
   },
   "repository": {
     "type": "git",
